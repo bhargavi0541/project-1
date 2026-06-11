@@ -1,2 +1,5 @@
 print("Hello")
 print("Welcome to Python!")
+print("Lets Begin")
+print("123")
+print("ABC")
