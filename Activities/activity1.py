@@ -7,6 +7,7 @@ print("get dressed")
 print("go to school")
 print("get home")
 print("watch TV")
-print("study for",n "hour")
+print(f"study for {n} hour")
 print("go to bed")
 time= n*7
+print(time)
