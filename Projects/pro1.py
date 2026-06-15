@@ -1,4 +1,5 @@
 n=2
+print("MY DAILY ROUTINE!")
 print ("wake up")
 print("brush my teeth")
 print("eat breakfast")

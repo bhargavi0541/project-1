@@ -1,5 +1,5 @@
-age= int(input("Enter your age"))
-if age>=18:
-    print("Person is eligible to vote")
+temp= int(input("Enter the temperature in celcius"))
+if temp>=20:
+    print("Rohan should wear light clothes")
 else:
-    print("Person is not eligible to vote")    
+    print("Rohan should wear layered heavy clothes")    
