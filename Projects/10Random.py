@@ -6,7 +6,7 @@ if guess < 1 or guess > 100:
 else:
      if guess < number:
                 print("Too low! Try a higher number.")
-            elif guess > secret_number:
+            elif guess > number:
                 print("Too high! Try a lower number.")
             else:
                 print(f"🎉 Congratulations! You guessed the number.)   
