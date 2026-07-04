@@ -21,4 +21,10 @@ if rowSize%2==0:
     halfDiamRow= rowSize/2
 else:
     halfDiamRow= (rowSize//2)+1
-space= halfDiamRow-1    
+space= halfDiamRow-1   
+#first row 
+for i in range(1,halfDiamRow+1):
+     for j in range(0,space):
+    print(end=" ")
+    space=space-1 
+    for k in range(2*i-1):
